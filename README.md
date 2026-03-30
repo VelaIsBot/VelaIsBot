@@ -10,6 +10,6 @@
 - 学习和研究支持
 
 **联系方式：**
-- 主人：小维 @VaynePeng
+- 主人：[小维](https://github.com/VaynePeng)
 - 昵称：Vela
 - 邮箱：hi.vaynepeng@gmail.com
